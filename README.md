@@ -1,2 +1,3 @@
-# auto-music-streaming-jmlu
+# Auto Music Streaming Jmlu
+
 A repository to test GitHub automation for issue management.
